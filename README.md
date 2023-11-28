@@ -14,5 +14,5 @@ Easy integration for real-time applications
 
 Open-source and customizable for further research
 
-Training accuracy and validation accuracy are meticulously balanced, indicating strong generalization
+# Training accuracy and validation accuracy are meticulously balanced, indicating strong generalization
 
